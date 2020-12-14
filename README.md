@@ -21,3 +21,11 @@ In the image below for an example I input the state "az" to filter the date to s
 
 ## Summary
 
+### Drawbacks:
+ - The input MUST be the exact same format. The webpage is case senstive.
+ 
+### Recommendations:
+- Make the webpage no case senstive so users don't get frustrated as Arizona and arizona are the same input.
+- Perhaps find a way that when we search a UFO then there is a link to the image so users can see the image.
+- When searching if user inputs a text and nothing comes up then the next text that is similar pops up.
+
